@@ -62,7 +62,7 @@ Arduino Nano + ESP32C
 
 We need two boards for our project: Arduino Nano for sensing and ESP32 for communication.
 
-![w:500pt](./pic/twoboards/board.png)
+![w:500pt](./pic/twoboards/board.webp)
 
 - To connect two boards, we need to use a level shifter to convert the voltage levels between the two devices.
 
