@@ -1,1 +1,9 @@
 .git_backup_*/
+
+# Generated PDFs
+pdf/
+*.pdf
+
+# Generated PDFs
+pdf/
+*.pdf
